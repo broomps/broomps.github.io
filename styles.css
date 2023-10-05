@@ -6,10 +6,46 @@ h1 {
     color: rgb(205, 205, 205);
     font-family: "Andale Mono", "Freemono", monospace;
     font-size: 80px;
+    padding: 30px;
+    text-align: left;
+}
+
+h2 {
+    color: rgb(205, 205, 205);
+    font-family: "Andale Mono", "Freemono", monospace;
+    font-size: 30px;
+    text-align: left;
+}
+
+h3 {
+    color: rgb(205, 205, 205);
+    font-family: "Andale Mono", "Freemono", monospace;
+    font-size: 30px;
+    text-align: left;
 }
 
 p {
     color: rgb(210, 210, 210);
     text-align: left;
+    font-family: "Andale Mono", "Freemono", monospace;
+    font-size: 14px;
+    text-decoration: solid;
+
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 8px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Andale Mono", "Freemono", monospace;
+  }
+
+a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 14px;
     font-family: "Andale Mono", "Freemono", monospace;
 }
