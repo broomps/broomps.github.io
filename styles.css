@@ -54,7 +54,8 @@ a {
     position: relative;
 }
 #content img {
-    position: absolute;
+    position: relative;
+    float: right;
     top: 0px;
     right: 0px;
 }
